@@ -1,4 +1,4 @@
-Off-canvas menu
+Off-canvas menu made for HCS or ...
 
 on desktop
 	- open by default
